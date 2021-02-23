@@ -1,0 +1,17 @@
+.recipe-img{
+    display: block;
+    width:  60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.list-group-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* align-content: center; */
+}
+
+.left-a{
+    width: 80%;
+}
